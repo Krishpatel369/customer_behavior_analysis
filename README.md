@@ -35,6 +35,7 @@ Write a clear project report summarizing key findings and business recommendatio
 
 - 🎯 Business Problem
 - 🔄 Project Workflow
+- 📌 Workflow Diagram
 - 📊 Dataset Overview
 - 📁 Project Structure
 - 🐍 Data Preparation & EDA (Python)
@@ -66,6 +67,10 @@ Management has noticed shifts in purchasing patterns across demographics, produc
 5. 📄 Project Report (Summarize findings)
 6. 🎤 Presentation using Gamma AI (Present to stakeholders)
 7. 🐙 GitHub Repository (Upload all project files)
+
+---
+
+![image alt](https://github.com/Krishpatel369/customer_behavior_analysis/blob/aa595a9613f79477660b181f8805480f40d04b1c/step%20to%20create%20a%20project.png)
 
 ---
 
