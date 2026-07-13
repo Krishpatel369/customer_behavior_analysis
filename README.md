@@ -69,6 +69,7 @@ Management has noticed shifts in purchasing patterns across demographics, produc
 7. 🐙 GitHub Repository (Upload all project files)
 
 ---
+## 📌 Workflow Diagram
 
 ![image alt](https://github.com/Krishpatel369/customer_behavior_analysis/blob/aa595a9613f79477660b181f8805480f40d04b1c/step%20to%20create%20a%20project.png)
 
