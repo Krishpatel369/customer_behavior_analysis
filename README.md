@@ -218,6 +218,6 @@ This project was completed as a **Final Year College Project** at **Dr. Subhash 
 | 🧑‍💼 Team Leader | Ghodasara Krish |
 | 👨‍💻 Team Member | Parmar Harsh |
 | 👩‍💻 Team Member | Ribadiya Nensi |
-| 🎓 Guide | Professor Vijay Manavar |
+| 🎓 Guide | Professor Vijaysir Manavar |
 
 ---
